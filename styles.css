@@ -1,0 +1,45 @@
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px 12px 20px;
+    margin: 50px 0;
+    box-sizing: border-box;
+    font-size: xx-large;
+    color: rgb(7, 7, 27);
+    background-color: rgb(212, 248, 4);
+  }
+
+  h1{
+      font-size: xx-large;
+      color: rgb(250, 250, 250);
+      text-align: center;
+      text-decoration: underline;
+      text-decoration-color: chartreuse;
+      background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRek4ni5y-hNF9h8MRdSz9S845jsfiYDo2RtNRadEP8A8GnfBQ9ypkj_UF6swx5kADgt3I&usqp=CAU);
+     
+  }
+
+  button{
+      color:rgb(0, 255, 13);
+      font-size: xx-large;
+      background-color: rgb(3, 3, 3);
+  }
+
+  body{
+      background-color: black;
+      background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjnyd58LKnbdweZBb7eCVarT8IhM6D0m57Tw&usqp=CAU);
+     background-repeat: no-repeat;
+     background-size: cover;
+     
+  
+   
+  }
+
+  #check{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRek4ni5y-hNF9h8MRdSz9S845jsfiYDo2RtNRadEP8A8GnfBQ9ypkj_UF6swx5kADgt3I&usqp=CAU);
+  }
+
+  #searchItems{
+      color: azure;
+      font-size: xx-large;
+      
+  }
